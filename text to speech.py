@@ -12,7 +12,7 @@ import pyttsx3
 from googletrans import Translator
 
 # opening an image from the source path
-img = Image.open('C:/Users/sagar/OneDrive/Desktop/pic7.png')	
+img = Image.open('C:/Users/Desktop/pic7.png')	
 
 # describes image format in the output
 print(img)						
